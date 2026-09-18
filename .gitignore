@@ -1,0 +1,57 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.ENV.local
+.env
+.env.local
+.env.*
+.env.local.*
+.venv/
+venv/
+ENV/
+env.bak/
+.venv.bak/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing
+.coverage
+coverage/
+htmlcov/
+.noserc
+.tox/
+.cover/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+*.env.*
+```
